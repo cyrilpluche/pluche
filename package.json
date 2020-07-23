@@ -1,0 +1,20 @@
+{
+  "name": "pluche",
+  "version": "1.0.0",
+  "description": "Smart utilities for readable code",
+  "main": "index.js",
+  "dependencies": {
+    "sass-loader": "^9.0.2",
+    "sass": "^1.26.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pluche"
+  },
+  "author": "PLUCHE Cyril",
+  "license": "ISC"
+}
