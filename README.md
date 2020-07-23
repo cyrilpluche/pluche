@@ -19,7 +19,7 @@ In scss files:
 // OR
 
 // available scss utils
-@import './styles/global.scss';
-@import './styles/placement.scss';
-@import './styles/spacing.scss';
+@import './node_modules/pluche/styles/global.scss';
+@import './node_modules/pluche/styles/placement.scss';
+@import './node_modules/pluche/styles/spacing.scss';
 ```

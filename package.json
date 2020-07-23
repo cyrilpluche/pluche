@@ -1,6 +1,6 @@
 {
   "name": "pluche",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Smart utilities for readable code",
   "main": "index.js",
   "dependencies": {},
